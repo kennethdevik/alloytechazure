@@ -1,16 +1,7 @@
 # Config
-DA-Intranett/*.config
-!DA-Intranett/packages.config
-DA-Intranett/*/Development/connectionStrings.Development.config
-DA-Intranett/*/Development/DA.Development.config
-DA-Intranett/*/Development/episerver.Development.config
-DA-Intranett/*/Development/Find.Development.config
-DA-Intranett/Deploy/Configuration/*
-DA-Intranett/Modules
+AlloyTechAzure/connectionStrings.config
+AlloyTechAzure/Modules
 
-DA-Intranett/Static/Styles_*.css
-DA-Intranett/Static/Scripts_*.js
-DA-Intranett/Static/Modernizr_*.js
 
 # Episerver
 AppData/*
