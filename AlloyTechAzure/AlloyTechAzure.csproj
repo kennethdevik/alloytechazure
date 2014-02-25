@@ -263,6 +263,10 @@
     <Folder Include="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="modulesbin\EPiServer.Packaging.CmdAPI.dll" />
+    <Content Include="modulesbin\EPiServer.Packaging.dll" />
+    <Content Include="modulesbin\EPiServer.Packaging.UI.dll" />
+    <Content Include="modulesbin\NuGet.Core.dll" />
     <Content Include="Views\Web.config" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
