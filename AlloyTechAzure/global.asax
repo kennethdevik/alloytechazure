@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="AlloyTechAzure.Global" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="EPiServer.Templates.Alloy.Global" %>
