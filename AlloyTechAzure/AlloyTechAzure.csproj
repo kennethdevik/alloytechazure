@@ -268,7 +268,6 @@
     <Content Include="Web.config" />
     <Content Include="episerver.config" />
     <Content Include="EPiServerFramework.config" />
-    <Content Include="connectionStrings.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
