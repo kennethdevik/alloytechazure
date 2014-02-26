@@ -494,6 +494,7 @@
     <Content Include="Views\Shared\SubNavigation.cshtml" />
     <Content Include="Views\Shared\TemplateError.cshtml" />
     <Content Include="Views\Shared\TemplateHint.cshtml" />
+    <Content Include="EPiServerLog.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
