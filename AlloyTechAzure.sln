@@ -5,13 +5,6 @@ VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlloyTechAzure", "AlloyTechAzure\AlloyTechAzure.csproj", "{3D79ADE5-DADB-47D2-933D-E98F9773AFAD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1A51B6F9-6A46-406A-B3A0-6A4B5847C6BD}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{1FCEC795-EAB3-49E0-AAB4-EBD9B278E79A}"
 	ProjectSection(SolutionItems) = preProject
 		packages\repositories.config = packages\repositories.config
